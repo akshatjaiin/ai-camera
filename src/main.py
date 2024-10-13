@@ -1,7 +1,6 @@
 # import the opencv library 
 import cv2 
 import numpy as np
-from tflite import interpreter
 
 face_detector= cv2.CascadeClassifier('./models/haarcascade_frontalface_default.xml')
 gender_model = cv2.dnn.readNetFromCaffe('./models/gender.prototxt', './models/gender_net.caffemodel')
