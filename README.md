@@ -1,6 +1,11 @@
-# Women Safety Analytics System (Under Construction)
-
+# Women Safety Analytics System (Working on cv2 and Under Construction with yolo v8)
+working explanation: <https://drive.google.com/drive/folders/1--lNfM2sqqslaVNeU06Jt9POdEKjTFxu>
 This project is in progress and aims to create a robust, real-time surveillance system focused on improving women’s safety. Using a combination of facial recognition, gender detection, hand gesture analysis, and environmental awareness, the system is designed to raise alerts in potentially unsafe situations, such as detecting SOS gestures or tracking if a woman is surrounded by too many men.
+few pictures..
+
+![WhatsApp Image 2024-10-13 at 5 54 18 PM](https://github.com/user-attachments/assets/5b6ce61a-c524-48a9-8045-5066a983d4a3)
+
+![IMG_0311](https://github.com/user-attachments/assets/1ab9befc-fe2e-460b-bef0-a610ec8f8222)
 
 Currently, the system uses OpenCV (`cv2`) for frame-by-frame analysis, but future iterations will integrate **YOLOv8** for more efficient and accurate video-based analysis. 
 
